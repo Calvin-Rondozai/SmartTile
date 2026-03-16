@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartTile IoT Alert System
 
 A modern, techy, real-time IoT alert system with a web dashboard. The system receives alerts from an ESP32 via a Flask-SocketIO backend.
@@ -174,3 +175,7 @@ This project is open source and available for personal and educational use.
 ## 🎉 Enjoy!
 
 You now have a fully functional, modern IoT alert system with beautiful animations and real-time updates!
+=======
+# SmartTile
+SmartTile is a real‑time IoT alert system built around an ESP32, a Flask‑SocketIO backend, a modern web dashboard, and a React Native (Expo) mobile app. It’s designed for safety/monitoring scenarios (e.g. “Kitchen” motion/pressure alerts), providing instant visual, audio, and push‑notification feedback whenever an event is detected.
+>>>>>>> 8af61ba1e2eb22591ce1332d92ebf1432bb80055
